@@ -3,7 +3,3 @@ SQLite3 kullanılarak her kullanıcının belirtilen sürede bir davet oluşturm
 Dilerseniz geliştirip guildMemberAdd eventında gelen kullanıcının davet kodunun kimin tarafından oluşturulduğunu kontrol ettirebilir, bunu bir referans sistemi yazmak için kullanabilirsiniz.
 
 ------------------------------------------------------------------
-Bu kod Serendia Squad için paylaşılmıştır.
-Serendia Ailesine sevgiler
-
-discord.gg/serendia
